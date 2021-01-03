@@ -34,6 +34,7 @@ PKE现有的文档和源码：
 
 邵志远
 
+- github: https://github.com/mrshawcode
 - email: zyshao@hust.edu.cn
 
 ## 难度 ##
