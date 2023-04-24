@@ -53,13 +53,13 @@ PKE现有的文档和源码：
 - 如学生参加了多个项目，参赛学生选择一个自己参加的项目参与评奖
 - 请遵循“2022全国大学生操作系统比赛”的[章程](https://mp.weixin.qq.com/s/yxunoM7MwXJ3EYt4aZCNmw)和[技术方案](https://mp.weixin.qq.com/s/9UUDcTguBCh2UedXlpATXQ)要求
 
-## 项目导师 ##
+### 项目导师
 
 邵志远
 
 - email: zyshao@hust.edu.cn
 
-## 难度 ##
+### 难度
 
 初等~中等
 
